@@ -28,6 +28,9 @@ gem 'jbuilder', '2.5.0'
 # Use Font Awesome sass gem
 gem 'font-awesome-sass', '4.6.2'
 
+# Use Hirb gem for database
+gem 'hirb', '0.7.3'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
